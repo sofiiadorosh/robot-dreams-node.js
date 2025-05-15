@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sum": "node index.js \"[1, 2, [3, 4, [5]], 6]\""
   },
   "repository": {
     "type": "git",
